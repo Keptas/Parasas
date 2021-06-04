@@ -1,0 +1,10 @@
+C:\Users\Lukas\source\repos\parasas\parasas\bin\Debug\parasas.exe.config
+C:\Users\Lukas\source\repos\parasas\parasas\bin\Debug\parasas.exe
+C:\Users\Lukas\source\repos\parasas\parasas\bin\Debug\parasas.pdb
+C:\Users\Lukas\source\repos\parasas\parasas\obj\Debug\parasas.csprojAssemblyReference.cache
+C:\Users\Lukas\source\repos\parasas\parasas\obj\Debug\parasas.Form1.resources
+C:\Users\Lukas\source\repos\parasas\parasas\obj\Debug\parasas.Properties.Resources.resources
+C:\Users\Lukas\source\repos\parasas\parasas\obj\Debug\parasas.csproj.GenerateResource.cache
+C:\Users\Lukas\source\repos\parasas\parasas\obj\Debug\parasas.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\source\repos\parasas\parasas\obj\Debug\parasas.exe
+C:\Users\Lukas\source\repos\parasas\parasas\obj\Debug\parasas.pdb
